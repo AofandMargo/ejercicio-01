@@ -20,4 +20,14 @@ _El Hardware_ es la parte física o tangible del computador, aquella que se pued
 
 [Disco Duro](http://github.com) 
 
+ * Facultad Ingeniería 1
+ * Departamento Informática 2
+    * Área Ingeniería de computadores 2a
+    * Nivel Secundaria 2b 
+
+1. Módem 2121 1
+2. Enrutador 2
+3. Enrutador 3
+    * Memoria 3a
+    * Bus de Datos 3b 
 
