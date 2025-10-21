@@ -1,18 +1,23 @@
-# Margo
-
-## Margo
-
-### Margo
-
-#### Margo
+# AOF
+## AOF 
+###### AOF
 
 
-ponemos un texto sobre **AOF** ponemos un texto sobre AOF ponemos un texto sobre AOFponemos un texto sobre AOFponemos un texto sobre AOF ponemos un texto sobre AOF ponemos un texto sobre AOF ponemos un texto sobre AOFponemos un texto sobre AOFponemos un texto sobre AOF ponemos un texto sobre AOF ponemos un texto sobre AOF ponemos un texto sobre AOFponemos un texto sobre AOFponemos un texto sobre AOponemos un texto sobre AOF ponemos un texto sobre AOF ponemos un texto sobre AOFponemos un texto sobre AOFponemos un texto sobre AOF 
+Un computador se divide fundamentalmente en dos partes: *el **Hardware** y el Software.* El hardware es la parte física del computador, la parte tangible; es decir aquello que podemos tocar del **computador**. El software es la parte lógica del computador, es decir el conjunto de instrucciones que le ordenan al hardware que tarea debe realizar. 
 
- * pan
- * manzana 
- * tomate 
+_El Hardware_ es la parte física o tangible del computador, aquella que se puede palpar. __Los componentes Hardware__ se refiere a las partes físicas y accesorios complementarios que componen la Unidad Central de Procesamiento \*CPU\* así como a los dispositivos externos, tales como, monitor, impresora, teclado, mouse, cornetas. Si vemos el computador como una estructura de hardware, notaremos que está constituido por dispositivos, que clasificaremos según la función que desempeñen. De acuerdo a esta clasificación tendremos: 
 
- 1. gato
- 2. perro
- 3. pato
+
+    * Dispositivos de Entrada.
+    * Dispositivos de Salida.
+    * Dispositivos de Comunicación.
+    1. Dispositivos de Almacenamiento.
+    2. Dispositivos de Computo.
+
+> Dispositivos 
+> de 
+> almacenamiento
+
+[Disco Duro](http://github.com) 
+
+
